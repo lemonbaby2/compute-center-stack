@@ -1,0 +1,26 @@
+category,repo,stars,language,clone_url,role
+orchestration,kubernetes/kubernetes,124936,Go,https://github.com/kubernetes/kubernetes.git,生产级容器调度与集群管理
+container,moby/moby,71990,Go,https://github.com/moby/moby.git,Docker/Moby 容器生态基础
+container,containerd/containerd,21152,Go,https://github.com/containerd/containerd.git,Kubernetes 常用 CRI runtime
+orchestration,helm/helm,30169,Go,https://github.com/helm/helm.git,Kubernetes 包管理
+gpu,NVIDIA/gpu-operator,2847,Go,https://github.com/NVIDIA/gpu-operator.git,K8s GPU 驱动插件监控自动化
+gpu,NVIDIA/k8s-device-plugin,3858,Go,https://github.com/NVIDIA/k8s-device-plugin.git,K8s NVIDIA GPU device plugin
+gpu,NVIDIA/dcgm-exporter,1838,Go,https://github.com/NVIDIA/dcgm-exporter.git,GPU Prometheus 指标导出
+monitoring,prometheus/prometheus,65788,Go,https://github.com/prometheus/prometheus.git,指标采集和时序数据库
+monitoring,grafana/grafana,76368,TypeScript,https://github.com/grafana/grafana.git,监控可视化和告警展示
+hpc,schedmd/slurm,4275,C,https://github.com/SchedMD/slurm.git,HPC/AI 批处理调度器
+hpc,openhpc/ohpc,999,C,https://github.com/openhpc/ohpc.git,HPC 集成打包和测试
+hpc,warewulf/warewulf,659,Go,https://github.com/warewulf/warewulf.git,无盘/裸金属集群装机
+storage,ceph/ceph,16958,C++,https://github.com/ceph/ceph.git,对象块文件统一分布式存储
+storage,rook/rook,13608,Go,https://github.com/rook/rook.git,K8s 存储编排和 Ceph Operator
+storage,lustre/lustre-release,321,C,https://github.com/lustre/lustre-release.git,Lustre 并行文件系统镜像
+hpc,openpbs/openpbs,804,C,https://github.com/openpbs/openpbs.git,PBS 批处理调度器
+iac,hashicorp/terraform,49523,Go,https://github.com/hashicorp/terraform.git,基础设施即代码
+automation,ansible/ansible,70443,Python,https://github.com/ansible/ansible.git,批量配置和自动化运维
+logging,elastic/elasticsearch,77855,Java,https://github.com/elastic/elasticsearch.git,日志检索和搜索
+observability,open-telemetry/opentelemetry-collector,7447,Go,https://github.com/open-telemetry/opentelemetry-collector.git,日志指标链路统一采集
+ai-platform,mlflow/mlflow,27634,Python,https://github.com/mlflow/mlflow.git,AI 实验模型评估部署管理
+ai-runtime,ray-project/ray,43587,Python,https://github.com/ray-project/ray.git,AI 分布式计算运行时
+ai-runtime,dask/dask,13895,Python,https://github.com/dask/dask.git,Python 并行计算
+ai-framework,NVIDIA/NeMo,18281,Python,https://github.com/NVIDIA/NeMo.git,大模型多模态语音训练框架
+ai-framework,pytorch/pytorch,102565,Python,https://github.com/pytorch/pytorch.git,GPU 深度学习框架
